@@ -80,7 +80,7 @@ select:not([multiple='multiple']) {
   text-overflow: ellipsis;
   white-space: nowrap;
   font: inherit;
-  height: 34px;
+  height: 30px;
 }
 
 @-moz-document url-prefix() {
