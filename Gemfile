@@ -1,4 +1,4 @@
-gem 'deface', '< 1.0.0'
+gem 'deface'
 
 group :development do
   gem 'diffy'
